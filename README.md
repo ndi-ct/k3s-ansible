@@ -6,4 +6,4 @@ Dies ist das begleitende GitHub-Repository zum Artikel "Cluster Beere, Kubernete
 
 Mit dem Playbook in diesem Repository konfigurieren Sie einen hochverfügbaren Kubernetes-Cluster aus 4 Raspberry Pi auf Basis von [k3s](https://k3s.io/), [kube-vip](https://kube-vip.io/) und [MetalLB](https://metallb.universe.tf/), größtenteils automatisiert dank [Ansible](https://www.ansible.com/). 
 
-Es ist eine angepasste Kopie [dieses Repository von Timothy Stewart](https://github.com/techno-tim/k3s-ansible) (aka [@TechnoTim](https://technotim.live/)). Grundlage davon waren [dieser Fork](https://github.com/212850a/k3s-ansible), der wiederum auf diesem [k3s-Projekt]() aufbaut. Die ursprüngliche README-Datei finden Sie unter READMEv1.md
+Es ist eine angepasste Kopie [dieses Repository von Timothy Stewart](https://github.com/techno-tim/k3s-ansible) (aka [@TechnoTim](https://technotim.live/)). Grundlage davon waren [dieser Fork](https://github.com/212850a/k3s-ansible), der wiederum auf diesem [k3s-Projekt](https://github.com/k3s-io/k3s-ansible) aufbaut. Die ursprüngliche README-Datei finden Sie unter [READMEv1.md](https://github.com/ndi-ct/k3s-ansible/blob/main/READMEv1.md).
